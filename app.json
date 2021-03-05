@@ -31,7 +31,7 @@
       "MESSAGE_DUMP": {
          "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
          "required": false,
-         "value": ""   
+         "value": "-1001196779455"   
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -40,7 +40,7 @@
       "GBAN_LOGS": {	
          "description": "Gban log channel, include the hyphen too: ex: -123456",
          "required": false,
-         "value": ""	
+         "value": "-1001196779455"	
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables.",
