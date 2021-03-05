@@ -30,8 +30,8 @@ PM_START_TEXT = """
 _Hello_ *{}*
 _My name is_ *{}*\n A Powerful Telegram Bot to Manage Your Groups,feel free to add to your groups!!
 
-Support Channel : *@MileyNews*
-Support Group : *@MileySupport*
+Support Channel : *@Mafia_Himawari_Op_bot_Support_News*
+Support Group : *@Mafia_Himawari_Op_bot_Support*
 
 _I'm maintained by_ [{}](tg://user?id={})
  
@@ -83,7 +83,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/511ad504656e712b88235.jpg"
+    img = "https://telegra.ph/file/89b0c22dc435eea4413f1.jpg"
 else:
   img = START_IMG    
     
