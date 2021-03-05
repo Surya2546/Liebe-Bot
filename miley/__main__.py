@@ -32,7 +32,7 @@ _My name is_ *{}*\n A Powerful Telegram Bot to Manage Your Groups,feel free to a
 
 Support Channel : *@Liebe_News*
 Support Group : *@Liebe_Support*
-My Sister : @MissMiley_Bot
+
 
 _I'm maintained by_ [{}](tg://user?id={})
  
