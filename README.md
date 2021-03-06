@@ -118,4 +118,7 @@ You should now be able to build your database URI. This will be:
 Replace sqldbtype with whichever db youre using (eg postgres, mysql, sqllite, etc)
 repeat for your username, password, hostname (localhost?), port (5432?), and db name.
 
+## Credits 📍
+* Well, it's all in the commit history 
+Feel free to open pull requests should any be missing.
 
