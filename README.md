@@ -9,6 +9,12 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 ### Click Below Image to Deploy
 [![Deploy](https://telegra.ph/file/23c6de722142197bd531d.jpg)](https://heroku.com/deploy?template=https://github.com/MysteryxD/MileyBot.git)
 
+## The Easier Way to install
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
+
+
+
 ### Configuration
 
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
