@@ -11,7 +11,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]( To Be Updated )
 
 
 
@@ -125,6 +125,5 @@ Replace sqldbtype with whichever db youre using (eg postgres, mysql, sqllite, et
 repeat for your username, password, hostname (localhost?), port (5432?), and db name.
 
 ## Credits 📍
-* Well, it's all in the commit history 
-Feel free to open pull requests should any be missing.
+Soon 
 
