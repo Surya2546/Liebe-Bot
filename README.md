@@ -7,7 +7,7 @@
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/038200c811cff976f484e.jpg)](https://heroku.com/deploy?template=https://github.com/MysteryxD/MileyBot.git)
+[![Deploy](https://telegra.ph/file/23c6de722142197bd531d.jpg)](https://heroku.com/deploy?template=https://github.com/MysteryxD/MileyBot.git)
 
 ### Configuration
 
