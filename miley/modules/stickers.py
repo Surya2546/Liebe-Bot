@@ -44,7 +44,7 @@ def getsticker(bot: Bot, update: Update):
 
 
 @run_async
-def kang(bot: Bot, update: Update, args: List[str]):
+def steal(bot: Bot, update: Update, args: List[str]):
     msg = update.effective_message
     user = update.effective_user
     packnum = 0
@@ -231,7 +231,7 @@ def makepack_internal(msg, user, png_sticker, emoji, bot, packname, packnum):
 __help__ = """
 - /stickerid: reply to a sticker to get its ID.
 - /getsticker: reply to a sticker to get the raw PNG image.
-- /kang: reply to a sticker or image to add it to your pack.
+- /steal: reply to a sticker or image to add it to your pack.
 """
 
 __mod_name__ = "Stickers"
