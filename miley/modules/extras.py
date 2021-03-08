@@ -32,7 +32,8 @@ ABUSE_STRINGS = (
     "`Try playing catch and throw with RDX its fun.`",
     "`People like you are the reason we have middle fingers.`",
     "`When your mom dropped you off at the school, she got a ticket for littering.`",
-    "`You’re so ugly that when you cry, the tears roll down the back of your head…just to a
+    "`You’re so ugly that when you cry, the tears roll down the back of your head…just to a`",
+    "`If you’re talking behind my back then you’re in a perfect position to kiss my a**!.`",
   )
 
 SONG_STRINGS = (
@@ -57,7 +58,7 @@ SONG_STRINGS = (
  )
 
 @run_async
-def insult(bot: Bot, update: Update):
+def abuse(bot: Bot, update: Update):
     bot.sendChatAction(update.effective_chat.id, "typing") # Bot typing before send messages
     message = update.effective_message
     if message.reply_to_message:
@@ -75,7 +76,7 @@ def sing(bot: Bot, update: Update):
       message.reply_text(random.choice(SONG_STRINGS))
 
 __help__ = """
-- /insult : insult someone .
+- /abuse : insult someone .
 - /sing : First lines of some random malayalam Songs.
 """
 
