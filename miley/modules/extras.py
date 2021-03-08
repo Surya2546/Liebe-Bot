@@ -58,7 +58,7 @@ SONG_STRINGS = (
  )
 
 @run_async
-def abuse(bot: Bot, update: Update):
+def insult(bot: Bot, update: Update):
     bot.sendChatAction(update.effective_chat.id, "typing") # Bot typing before send messages
     message = update.effective_message
     if message.reply_to_message:
@@ -76,7 +76,7 @@ def sing(bot: Bot, update: Update):
       message.reply_text(random.choice(SONG_STRINGS))
 
 __help__ = """
-- /abuse : insult someone .
+- /insult : Insult someone .
 - /sing : First lines of some random malayalam Songs.
 """
 
