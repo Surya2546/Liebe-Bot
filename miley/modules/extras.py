@@ -4,7 +4,7 @@ from telegram import Message, Chat, Update, Bot, MessageEntity
 from miley import dispatcher
 from miley.modules.disable import DisableAbleCommandHandler
 
-ABUSE_STRINGS = (
+INSULT_STRINGS = (
     "`Owww ... Such a stupid idiot.`",
     "`Don't drink and type.`",
     "`Command not found. Just like your brain.`",
@@ -82,8 +82,8 @@ __help__ = """
 
 __mod_name__ = "Extras"
 
-ABUSE_HANDLER = DisableAbleCommandHandler("abuse", abuse)
+ABUSE_HANDLER = DisableAbleCommandHandler("insult", insult)
 SING_HANDLER = DisableAbleCommandHandler("sing", sing)
 
-dispatcher.add_handler(ABUSE_HANDLER)
+dispatcher.add_handler(INSULT_HANDLER)
 dispatcher.add_handler(SING_HANDLER)
