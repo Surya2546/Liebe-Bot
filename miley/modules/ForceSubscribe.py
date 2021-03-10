@@ -1,14 +1,14 @@
 import logging
 import time
 
-from pyrogram import Client, filters
-from pyrogram.errors.exceptions.bad_request_400 import (
+from telegram.ext import Client, filters
+from telegram.ext.errors.exceptions.bad_request_400 import (
     ChatAdminRequired,
     PeerIdInvalid,
     UsernameNotOccupied,
     UserNotParticipant,
 )
-from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 
 from miley import DRAGONS as SUDO_USERS
 from miley import pgram
