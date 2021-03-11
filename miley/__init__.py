@@ -69,7 +69,7 @@ if ENV:
     STRICT_GBAN = bool(os.environ.get('STRICT_GBAN', False))  
     STRICT_GMUTE = bool(os.environ.get('STRICT_GMUTE', False))
     WORKERS = int(os.environ.get('WORKERS', 8))
-    BAN_STICKER = os.environ.get('BAN_STICKER', 'CAACAgEAAx0CR1VnvwACCHlgSElcs1nhNXE9\_yuJl00EAR4SVAACfQEAAmhyQUZyxN70bx1nth4E)
+    BAN_STICKER = os.environ.get('BAN_STICKER', 'CAACAgEAAx0CR1VnvwACCHlgSElcs1nhNXE9\_yuJl00EAR4SVAACfQEAAmhyQUZyxN70bx1nth4E')
     KICK_STICKER = os.environ.get('KICK_STICKER', 'CAACAgQAAxkBAAEEUYRelpQPawgDzWA0kbOucFeqf8xdAQACigAD_OoIAAF1UohdVTwBsRgE')
     ALLOW_EXCL = os.environ.get('ALLOW_EXCL', False)
     CASH_API_KEY = os.environ.get('CASH_API_KEY', None)
