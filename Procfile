@@ -1,2 +1,2 @@
-worker: python3 -m miley
+worker: python3 -m Liebe
 ps:scale worker=1
