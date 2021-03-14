@@ -34,7 +34,9 @@ ABUSE_STRINGS = (
     "`When your mom dropped you off at the school, she got a ticket for littering.`",
     "`You’re so ugly that when you cry, the tears roll down the back of your head…just to a`",
     "`If you’re talking behind my back then you’re in a perfect position to kiss my a**!.`",
-  )
+    "`Hey Remdi......Tell your giving rates.`"
+ )
+
 
 SONG_STRINGS = (
     "🎶 മിഴിയറിയാതെ വന്നു നീ മിഴിയൂഞ്ഞാലിൽ... കനവറിയാതെയേതോ കിനാവു പോലെ... 🎶.",
