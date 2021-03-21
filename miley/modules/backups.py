@@ -268,7 +268,7 @@ def get_chat(chat_id, chat_data):
         return {"status": False, "value": False}
 
 
-__mod_name__ = "Backups 💾"
+__mod_name__ = "𝓑𝓪𝓬𝓴𝓾𝓹"
 
 __help__ = """
 *Only for chat administrator:*
