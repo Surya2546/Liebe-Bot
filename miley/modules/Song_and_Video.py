@@ -279,4 +279,4 @@ __help__ = """
  /video <songname artist(optional)>: uploads the video song in it's best quality available
 """
 
-__mod_name__ = "𝓜𝓾𝓼𝓲𝓬"
+__mod_name__ = "Music"
