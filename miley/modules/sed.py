@@ -2,9 +2,9 @@ import sre_constants
 
 import regex
 import telegram
-from LightYagami import LOGGER, dispatcher
-from LightYagami.modules.disable import DisableAbleMessageHandler
-from LightYagami.modules.helper_funcs.regex_helper import (infinite_loop_check)
+from miley import LOGGER, dispatcher
+from miley.modules.disable import DisableAbleMessageHandler
+from miley.modules.helper_funcs.regex_helper import (infinite_loop_check)
 from telegram import Update
 from telegram.ext import CallbackContext, Filters, run_async
 
