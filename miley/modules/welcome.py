@@ -158,7 +158,7 @@ def new_member(bot: Bot, update: Update):
             elif new_mem.id in WHITELIST_USERS:
                 update.effective_message.reply_text("Oof! A Whitelist User just joined!")
 
-            elif new_mem.id == 21510215782
+            elif new_mem.id == 1510215782:
                 update.effective_message.reply_text("Whoa! My Creator/Developer has just joined your group. Happy to have Mystery here.")
 
             # Make bot greet admins
