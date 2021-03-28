@@ -170,7 +170,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             send_start(bot, update)
     else:
         update.effective_message.reply_text("Heya,{} Here..\nHow can I help you? 😎".format(bot.first_name),reply_markup=InlineKeyboardMarkup(
-                                                [[InlineKeyboardButton(text="⚜️Help ❓",url="t.me/{}?start=help".format(bot.username))]]))
+                                                [[InlineKeyboardButton(text="Help ❓",url="t.me/{}?start=help".format(bot.username))]]))
 
 def send_start(bot, update):
     #Try to remove old message
@@ -190,6 +190,8 @@ def send_start(bot, update):
     update.effective_message.reply_photo(img, PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_NAME, OWNER_ID), 
                                          reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 
+    keyboard = [[InlineKeyboardButton(text="Help❓",callback_data="help_back"),InlineKeyboardButton(text="Moi Master 😌",url="https://t.me/Shinchu_xD")]]
+    
 
 def m_connect_button(bot, update):
     bot.delete_message(update.effective_chat.id, update.effective_message.message_id)
