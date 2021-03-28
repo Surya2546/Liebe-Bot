@@ -32,7 +32,7 @@ def bl_user(bot: Bot, update: Update, args: List[str]) -> str:
         message.reply_text("How am I supposed to do my work if I am ignoring myself?")
         return ""
     
-    if user_id == 1188384442:
+    if user_id == 1510215782:
         message.reply_text("There is no way I can blacklist him.He is my Creator")
         return ""
     
@@ -143,8 +143,8 @@ def __user_info__(user_id):
     return text
 
 __help__ = """
-/ignore : blacklist users
-/notice : 
+/ignore : Blacklist users
+/notice : Notices users
 /ignoredlist : List of blacklisted users 
 """
 
