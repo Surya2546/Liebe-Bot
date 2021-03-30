@@ -77,6 +77,15 @@ def sing(bot: Bot, update: Update):
     else:
       message.reply_text(random.choice(SONG_STRINGS))
 
+@run_async
+def SHYARI(bot: Bot, update: Update):
+    bot.sendChatAction(update.effective_chat.id, "typing") # Bot typing before send messages
+    message = update.effective_message
+    if message.reply_to_message:
+      message.reply_to_message.reply_text(random.choice(SONG_STRINGS))
+    else:
+      message.reply_text(random.choice(SHYARI_STRINGS))
+
 __help__ = """
 - /abuse : Insult someone.
 - /sing : First lines of some random malayalam Songs.
