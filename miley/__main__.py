@@ -61,7 +61,7 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-For Source U can contact my Master 👉👈
+For Source U can contact my Master 👉👈 , or wait for some days
 """
 
 
