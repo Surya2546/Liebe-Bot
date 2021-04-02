@@ -61,7 +61,7 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-🎓 I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/Shinchan1211/MileyBot)
+🎓 I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/Shinchan1211/Liebe-bot)
 ☄ You Can Clone Me [Here :)](https://heroku.com/deploy?template=https://github.com/Shinchan-xD/Liebe-Bot)
 ❤️Special thanks to [Mystery](https://t.me/TheBillyButcher) and his team for this cool Bot
 """
