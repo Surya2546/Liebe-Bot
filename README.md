@@ -21,7 +21,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]( To Be Updated )
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shinchan-xD/Liebe-Bot)
 
 
 
