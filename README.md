@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://telegra.ph/file/23c6de722142197bd531d.jpg">
+</p>
+
+Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
+
+
+
+
+
 ### [@Liebe_Op_bot](http://www.telegram.dog/Liebe_Op_bot)
-> with HunterxHunter theme.
+
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -12,11 +22,8 @@
 </p>
 
 
-Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
 
-<p align="center">
-  <img src="https://telegra.ph/file/23c6de722142197bd531d.jpg">
-</p>
+
 
 
 
