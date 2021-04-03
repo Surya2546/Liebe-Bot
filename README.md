@@ -19,13 +19,22 @@ News channel: <a  href="https://t.me/Liebe_News" alt="Liebe News"> <img  src="ht
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 
-<p align="left">
+<p align="center">
+<a herf="[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)" </a>
+
+
 <a href="<p align="center">
 <a href="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" alt="GitHub closed issues"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 </p>
 
 
+<p align="center">
 
+<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
+<a href="https://github.com/Shinchan-xD/Liebe-Bot" alt="Open Source Love svg1!"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /> </a>
+<a href="https://github.com/Shinchan-xD/Liebe-Bot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Shinchan-xD/Liebe-Bot" /> </a>
+<a href="https://github.com/Shinchan-xD/Liebe-Bot" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+</p>
 
 
 
