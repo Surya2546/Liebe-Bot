@@ -8,7 +8,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 
 
 Bot Link:  <a href="https://t.me/Liebe_Op_bot" alt="Liebe"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Liebe-blue" /> </a>
-
+News channel: <a  href="https://t.me/Liebe_News" alt="Liebe News"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Liebe%20News%20-9cf" /> </a>
 
 
 
