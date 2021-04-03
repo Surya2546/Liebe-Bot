@@ -5,12 +5,14 @@
 # LιҽႦҽ 🇮🇳
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
 
+Should you be forking this repo then do not forget to star it - 
+# Stars: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Shinchan-xD/Liebe-Bot?color=white&label=%F0%9F%8C%9F%20star">
 
 
 
-Bot Link:  <a href="https://t.me/Liebe_Op_bot" alt="Liebe"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Liebe-blue" /> </a>
+# Bot Link:  <a href="https://t.me/Liebe_Op_bot" alt="Liebe"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Liebe-blue" /> </a>
 
-News channel: <a  href="https://t.me/Liebe_News" alt="Liebe News"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Liebe%20News%20-9cf" /> </a>
+# News channel: <a  href="https://t.me/Liebe_News" alt="Liebe News"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Liebe%20News%20-9cf" /> </a>
 
 
 
