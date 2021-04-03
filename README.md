@@ -5,6 +5,8 @@
 # LιҽႦҽ 🇮🇳
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
 
+I am forked version of [Miley](https://t.me/MissMiley_Bot) with some minute changes
+
 Should you be forking this repo then do not forget to star it - 
 # Stars: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Shinchan-xD/Liebe-Bot?color=white&label=%F0%9F%8C%9F%20star">
 
@@ -146,5 +148,5 @@ Replace sqldbtype with whichever db youre using (eg postgres, mysql, sqllite, et
 repeat for your username, password, hostname (localhost?), port (5432?), and db name.
 
 ## Credits 📍
-Soon 
+Thanks to Mystery and His Team ❤️
 
