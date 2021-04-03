@@ -10,7 +10,6 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 Bot Link:  <a href="https://t.me/Liebe_Op_bot" alt="Liebe"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Liebe-blue" /> </a>
 
 
-### [@Liebe_Op_bot](http://www.telegram.dog/Liebe_Op_bot)
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
